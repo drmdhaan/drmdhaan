@@ -2,10 +2,6 @@
 
 Besides web development, I also enjoy creating **UI designs and visual content**.
 
-### 🖥️ UI/UX Design
-
-Designs focused on creating clean, responsive, and user-friendly interfaces.
-
 **Tools:** Figma • Canva
 
 ### 🎨 Graphic Design
